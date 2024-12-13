@@ -4,16 +4,15 @@
 As a self-employed Full Stack Developer and mentor, I’ve been working independently since 2017, providing end-to-end software solutions for B2B clients across various industries, including fintech, healthcare, education, and logistics. Operating remotely from Albania, I’ve built a robust freelance business and contributed to multiple large-scale projects, specializing in web and mobile development, machine learning, blockchain, and cloud computing.<br>
 - Proficient in both frontend and backend technologies, including Python, JavaScript, FastAPI, and Next.js, to create seamless user experiences. 
   <br>
-  - Experienced in designing and implementing robust architectures that drive performance and scalability. 
+In addition to my project work, I’m passionate about teaching and began offering free programming and freelancing lessons in 2020. Through these sessions, I guide aspiring developers on managing their careers and achieving a balanced, independent work life.<br>
 <br>
-- Skilled in leveraging cloud platforms like AWS and managing relational databases such as PostgreSQL to ensure reliability and efficiency. 
+Over the years, I’ve earned certifications across numerous technical areas—programming paradigms, software architecture, cloud technologies, data models, and automation—enabling me to stay current with industry advancements. My core technical skills include JavaScript, TypeScript, PHP, and Python, with expertise in frameworks such as React, Angular, Vue, Node.js, Laravel, Symfony, and Django.
 <br>
-- Adept at collaborating with cross-functional teams to deliver high-quality software in agile environments. 
+I am also dedicated to community projects. I have led initiatives in my hometown, developing web applications for local offices to streamline services and support animal welfare programs that meet European standards. My work is enriched by experiences and cultural insights gained from travels across Europe, America, Asia, and Africa.
 <br>
-- Dedicated to staying ahead of industry trends and continuously improving development practices. 
+Committed to writing clean, maintainable code while solving complex technical challenges to meet user needs. </center>
 <br>
-- Committed to writing clean, maintainable code while solving complex technical challenges to meet user needs. </center>
-<br>
+This journey has allowed me to combine a strong technical foundation with a commitment to mentoring, community service, and continuous learning, all while working remotely and adapting to global standards.<br>
 <h1 align="center">My Techonlogies</h1>
 <p align="center">
 <table align="center">
