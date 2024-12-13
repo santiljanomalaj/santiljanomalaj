@@ -178,6 +178,10 @@ This journey has allowed me to combine a strong technical foundation with a comm
       <img src="https://skillicons.dev/icons?i=jenkins" alt="icon" width="55" height="55" />
       <br>Jenkins
     </td>
+     <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=symfony" alt="icon" width="55" height="55" />
+      <br>Symfony
+    </td>
   </tr>
 </table>
 </p>
