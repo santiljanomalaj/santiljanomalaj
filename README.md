@@ -3,7 +3,9 @@
 <center>
 - Passionate Fullstack Engineer with a strong focus on building scalable and efficient web applications. 
 <br>
-- Proficient in both frontend and backend technologies, including Python, JavaScript, FastAPI, and Next.js, to create seamless user experiences. Experienced in designing and implementing robust architectures that drive performance and scalability. 
+- Proficient in both frontend and backend technologies, including Python, JavaScript, FastAPI, and Next.js, to create seamless user experiences. 
+  <br>
+  - Experienced in designing and implementing robust architectures that drive performance and scalability. 
 <br>
 - Skilled in leveraging cloud platforms like AWS and managing relational databases such as PostgreSQL to ensure reliability and efficiency. 
 <br>
