@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, Senior Software Engineer here.</h1>
 
+<center>
 Passionate Fullstack Engineer with a strong focus on building scalable and efficient web applications. 
 <br>
 Proficient in both frontend and backend technologies, including Python, JavaScript, FastAPI, and Next.js, to create seamless user experiences. Experienced in designing and implementing robust architectures that drive performance and scalability. 
@@ -10,7 +11,7 @@ Adept at collaborating with cross-functional teams to deliver high-quality softw
 <br>
 Dedicated to staying ahead of industry trends and continuously improving development practices. 
 <br>
-Committed to writing clean, maintainable code while solving complex technical challenges to meet user needs.
+Committed to writing clean, maintainable code while solving complex technical challenges to meet user needs. </center>
 <br>
 <h1 align="center">My Techonlogies</h1>
 <p align="center">
