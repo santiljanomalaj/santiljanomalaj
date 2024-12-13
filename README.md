@@ -49,7 +49,7 @@ This journey has allowed me to combine a strong technical foundation with a comm
       <br>RESTful API
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/nest-icon.svg" alt="icon" width="55" height="55" />
+      <img src="https://skillicons.dev/icons?i=nest" alt="icon" width="55" height="55" />
       <br>Nest
     </td>
   </tr>
