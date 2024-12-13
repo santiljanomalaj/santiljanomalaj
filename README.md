@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋,I am Software Engineer </h1>
 
 <center>
-- Passionate Fullstack Engineer with a strong focus on building scalable and efficient web applications. 
-<br>
+As a self-employed Full Stack Developer and mentor, I’ve been working independently since 2017, providing end-to-end software solutions for B2B clients across various industries, including fintech, healthcare, education, and logistics. Operating remotely from Albania, I’ve built a robust freelance business and contributed to multiple large-scale projects, specializing in web and mobile development, machine learning, blockchain, and cloud computing.<br>
 - Proficient in both frontend and backend technologies, including Python, JavaScript, FastAPI, and Next.js, to create seamless user experiences. 
   <br>
   - Experienced in designing and implementing robust architectures that drive performance and scalability. 
