@@ -1,13 +1,18 @@
 <h1 align="center">Hi 👋, Senior Software Engineer here.</h1>
 
-I'm a software engineer with a fire in my belly and a knack for getting things done. I lead the charge in crafting amazing user experiences from the ground up. 
+Passionate Fullstack Engineer with a strong focus on building scalable and efficient web applications. 
 <br>
-Give me a problem, and I'll throw my whole toolbox at it – I'm fluent in both frontend and backend development. 
-This lets me build web apps that are not only stunning to look at but also run like a dream and put users first.
+Proficient in both frontend and backend technologies, including Python, JavaScript, FastAPI, and Next.js, to create seamless user experiences. Experienced in designing and implementing robust architectures that drive performance and scalability. 
 <br>
-New challenges keep me energized, and I'm always ready to tackle them head-on.
-
-<h1 align="center">💫 My🌟BEST🌟 SKILLS</h1>
+Skilled in leveraging cloud platforms like AWS and managing relational databases such as PostgreSQL to ensure reliability and efficiency. 
+<br>
+Adept at collaborating with cross-functional teams to deliver high-quality software in agile environments. 
+<br>
+Dedicated to staying ahead of industry trends and continuously improving development practices. 
+<br>
+Committed to writing clean, maintainable code while solving complex technical challenges to meet user needs.
+<br>
+<h1 align="center">My Techonlogies</h1>
 <p align="center">
 <table align="center">
   <tr>
