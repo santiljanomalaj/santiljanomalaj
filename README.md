@@ -16,9 +16,7 @@ This journey has allowed me to combine a strong technical foundation with a comm
 <p align="center">
 <table align="center">
   <tr>
-   
-    
-    <td align="center" width="90">
+     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=actix" width="45" height="45" alt="Next.js" />
       <br>Actix
     </td>
