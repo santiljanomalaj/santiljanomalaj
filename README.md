@@ -67,8 +67,8 @@ This journey has allowed me to combine a strong technical foundation with a comm
       <br>Redux
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/gatsby-icon.svg" alt="icon" width="55" height="55" />
-      <br>Gatsby
+      <img src="https://skillicons.dev/icons?i=laravel" alt="icon" width="55" height="55" />
+      <br>Laravel
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=vue" width="45" height="45" alt="Vue" />
