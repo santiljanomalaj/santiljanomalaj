@@ -174,6 +174,10 @@ This journey has allowed me to combine a strong technical foundation with a comm
       <img src="https://skillicons.dev/icons?i=bitbucket" alt="icon" width="55" height="55" />
       <br>Bitbucket
     </td>
+     <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=jenkins" alt="icon" width="55" height="55" />
+      <br>Jenkins
+    </td>
   </tr>
 </table>
 </p>
