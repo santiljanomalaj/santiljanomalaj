@@ -74,3 +74,15 @@ scalable systems, and building technology that delivers measurable business impa
 <p align="center">
   🤖 OpenAI • Claude • Cursor • GitHub Copilot • RAG • LLMs • AI Agents
 </p>
+
+<hr>
+
+<div align="center">
+
+### 🚀 Engineering Products. Scaling Platforms. Solving Complex Problems.
+
+Building modern software across AI, Cloud, FinTech, Healthcare, Telecom, SaaS, and Blockchain.
+
+📧 ictirana18@gmail.com • 🌍 Albania • 💼 Open to Global Opportunities
+
+</div>
