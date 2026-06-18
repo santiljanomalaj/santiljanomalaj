@@ -1,13 +1,35 @@
-<h1 align="center">Hi 👋, I'm Santiljano Malaj</h1>
-<h3 align="center">Principal Full-Stack Engineer | Cloud Architect | AI Enthusiast</h3>
+<h1 align="center">👋 Hey, I'm Santiljano Malaj</h1>
 
-Building scalable applications, distributed systems, and AI-powered products with React, Node.js, TypeScript, AWS, Azure, GCP, and modern cloud technologies.
+<h3 align="center">
+Principal Full-Stack Engineer • Cloud Architect • AI Enthusiast
+</h3>
 
-🔭 Currently working on AI, LLM integrations, cloud-native architectures, and enterprise-scale platforms.
+<p align="center">
+With 12+ years of experience building enterprise applications, cloud-native platforms,
+distributed systems, and AI-powered products, I help transform complex business ideas
+into scalable, secure, and high-performance digital solutions.
+</p>
 
-⚡ 12+ years of experience across FinTech, Healthcare, Telecom, E-Commerce, Blockchain, SaaS, and AI.
+<p align="center">
+I've worked across FinTech, Healthcare, Telecom, E-Commerce, SaaS, Blockchain,
+and Artificial Intelligence, contributing to products used by thousands of users worldwide.
+</p>
 
-🚀 Passionate about software architecture, developer experience, automation, and solving complex engineering challenges.
+<p align="center">
+My expertise spans modern frontend development with React, Next.js, Angular, and Vue,
+backend engineering with Node.js, NestJS, Laravel, and Symfony, cloud infrastructure on
+AWS, Azure, and GCP, and the integration of AI technologies including LLMs,
+OpenAI, RAG systems, and intelligent automation workflows.
+</p>
+
+<p align="center">
+I am passionate about software architecture, clean code, developer experience,
+scalable systems, and building technology that delivers measurable business impact.
+</p>
+
+<p align="center">
+🚀 Building the future, one scalable system at a time.
+</p>
 
 
 <h1 align="center">My Techonlogies</h1>
